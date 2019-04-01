@@ -1,0 +1,24 @@
+.jumbotron{
+    text-align: center;
+}
+
+.content{
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px 5px 10px 10px;
+}
+
+h1{
+    color: rgb(49, 166, 193);
+}
+
+.link{
+    text-align: center;
+}
+
+/*todo.html css */
+.inputform{
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
